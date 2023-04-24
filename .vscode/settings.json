@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\ahass\\OneDrive\\Documents\\NetBeansProjects\\Snake.io\\dist\\lib\\jogg-0.0.7.jar",
+        "c:\\Users\\ahass\\OneDrive\\Documents\\NetBeansProjects\\Snake.io\\dist\\lib\\jorbis-0.0.15.jar",
+        "c:\\Users\\ahass\\OneDrive\\Documents\\NetBeansProjects\\Snake.io\\dist\\lib\\lwjgl_util.jar",
+        "c:\\Users\\ahass\\OneDrive\\Documents\\Slick2D\\lib\\jorbis-0.0.17.jar"
+    ]
+}
